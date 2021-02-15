@@ -1,4 +1,4 @@
-#Siege of Avalon : Open Source#
+# Siege of Avalon : Open Source
 
 The aim of this project is to port the original Win32 Delphi code, over to C# using MonoGame and XNA, so that it can be enjoyed by more people. When complete the plan is to release on Windows Phone, iOS, Android, MacOS, Linux and via PlayStation Suite (PS Vita, Xperia phones and eventually PS3).
 
